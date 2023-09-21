@@ -1,4 +1,3 @@
-# fashion_pose.py : MPII를 사용한 신체부위 검출
 import cv2
 
 # MPII에서 각 파트 번호, 선으로 연결될 POSE_PAIRS
